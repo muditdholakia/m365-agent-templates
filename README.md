@@ -1,3 +1,5 @@
+> Curated learning fork maintained by [Mudit Dholakia](https://github.com/muditdholakia). Original authorship: [microsoft/m365-agent-templates](https://github.com/microsoft/m365-agent-templates). See [your learning plan](CURATOR_README.md) and [security audit](CURATOR_SECURITY.md). Upstream license and copyright notices are retained.
+
 <p align="center">
   <img src=".github/social-preview.png" alt="M365 Agent Templates" width="100%">
 </p>
