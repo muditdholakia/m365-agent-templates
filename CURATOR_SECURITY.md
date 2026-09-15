@@ -19,9 +19,9 @@ No upstream sample, setup script, or workflow was executed. Fork Actions are dis
 Use current Microsoft 365 Agents SDK and supported framework examples; avoid legacy TeamsFx
 and Assistants-based Fabric query clients. Preview components require version-specific validation.
 
-## GitHub audit snapshot — 2026-09-15
+## GitHub audit snapshot — 2026-09-15 (final verification)
 
 Dependency alerts: `{"open_alerts": 0, "severity": {}}`.
 Secret-scanning alerts: `{"open_alerts": 0}`.
-Scans may still be running; zero alerts is not security certification.
+Scans can update later; zero alerts is not security certification.
 Remediate dependencies in a selected example before use; preserve upstream provenance.
